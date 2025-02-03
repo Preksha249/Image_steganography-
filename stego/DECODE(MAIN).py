@@ -3,7 +3,6 @@ import time
 import os
 
 
-
 def decode(img):
     extracted_bin = []
 #with Image.open("source_secret.png") as img:
